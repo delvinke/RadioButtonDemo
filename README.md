@@ -20,7 +20,7 @@ A Java Swing application that uses five radio buttons to select and display a pe
 ![Message Box](screenshot3.png)
 
 ### App Window
-![Message Box](screenshot4].png)
+![Message Box](screenshot4.png)
 
 ### App Window
 ![Message Box](screenshot5.png)
