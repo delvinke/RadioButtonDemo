@@ -13,8 +13,17 @@ A Java Swing application that uses five radio buttons to select and display a pe
 ### App Window
 ![App Window](screenshot1.png)
 
-### Message Box
+### App Window
 ![Message Box](screenshot2.png)
+
+### App Window
+![Message Box](screenshot3.png)
+
+### App Window
+![Message Box](screenshot4].png)
+
+### App Window
+![Message Box](screenshot5.png)
 
 ## How to Run
 1. Install Java JDK from https://www.oracle.com/java/technologies/downloads/
